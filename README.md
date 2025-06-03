@@ -1,6 +1,6 @@
 # 🖥️ ExplorePC - متجر إلكتروني لبيع الحواسيب وملحقاتها  
 
-![ExplorePC Banner](https://via.placeholder.com/1200x400?text=ExplorePC+Banner) *(استبدل هذه الصورة بصورة احترافية للمتجر)*  
+| ![Home](images/AYMAN.jpg) | ![Product](images/product_page.png) |
 
 ## 📋 وصف المشروع  
 تطبيق **ExplorePC** هو منصة متكاملة لبيع:  
